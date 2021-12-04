@@ -3,7 +3,7 @@
   "cloudfunctionRoot": "cloud/functions/",
   "projectname": "taro-mini-cloud",
   "description": "基于taro3 + 云开发小程序框架",
-  "appid": "wxf51f8ac9b31e8044",
+  "appid": "",
   "setting": {
     "urlCheck": true,
     "scopeDataCheck": false,
