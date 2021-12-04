@@ -9,7 +9,7 @@ const store = globalStore();
 class App extends Component {
   componentDidMount() {
     Taro.cloud.init({
-      env: '', // 获取环境ID：前往 云开发控制台-设置-环境ID
+      env: 'cloud1-7gf04a0e7797fad1', // 获取环境ID：前往 云开发控制台-设置-环境ID
       traceUser: true // 是否要捕捉每个用户的访问记录。设置为true，用户可在管理端看到用户访问记录
     })
     // this.getLogin();
